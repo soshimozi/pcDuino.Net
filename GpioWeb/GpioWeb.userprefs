@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GpioWeb/Default.aspx.cs">
+    <Files>
+      <File FileName="GpioWeb/Default.aspx" Line="10" Column="32" />
+      <File FileName="GpioWeb/Default.aspx.cs" Line="11" Column="4" />
+      <File FileName="../src/pcDuino.Net/GpioPins.cs" Line="32" Column="1" />
+      <File FileName="../src/pcDuino.Net/GpioDirection.cs" Line="10" Column="1" />
+      <File FileName="../src/pcDuino.Net/GpioFile.cs" Line="17" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
