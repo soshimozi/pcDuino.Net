@@ -1,6 +1,6 @@
 CXX=g++
 
-INCLUDEDIRS= -I/home/ubuntu/src/libgpio -I.
+INCLUDEDIRS= -I../libgpio -I.
 LIBS=-lgpio
 LFLAGS=$(LIBS)
 CFLAGS=-Wall $(INCLUDEDIRS)
